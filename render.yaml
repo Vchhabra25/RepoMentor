@@ -1,0 +1,46 @@
+services:
+  - type: web
+    name: repomentor-ai-backend
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    envVars:
+      - key: APP_NAME
+        value: RepoMentor AI
+      - key: ENVIRONMENT
+        value: production
+      - key: DEBUG
+        value: "false"
+      - key: ALLOWED_ORIGINS
+        sync: false # set to your deployed Vercel frontend URL(s), comma-separated
+      - key: REPOSITORY_STORAGE_DIR
+        value: data/repositories
+      - key: MAX_REPOSITORY_SIZE_MB
+        value: "150"
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: AI_MODEL
+        value: claude-sonnet-5
+      - key: AI_MAX_TOKENS
+        value: "4096"
+      - key: AI_REQUEST_TIMEOUT_SECONDS
+        value: "60"
+      - key: RATE_LIMIT_ENABLED
+        value: "true"
+      - key: RATE_LIMIT_REQUESTS_PER_MINUTE
+        value: "60"
+      - key: RATE_LIMIT_AI_REQUESTS_PER_MINUTE
+        value: "10"
+      - key: FIREBASE_CREDENTIALS_PATH
+        sync: false # optional — leave unset to run with in-memory storage only
+      - key: FIREBASE_PROJECT_ID
+        sync: false
+
+    # Render's ephemeral filesystem is wiped on every deploy/restart — fine
+    # for a demo, but ingested repositories and the in-memory caches won't
+    # survive a restart. For real persistence, add a Render Disk mounted at
+    # REPOSITORY_STORAGE_DIR and configure Firestore for AnalysisStore /
+    # AICacheStore instead of relying on their in-memory fallback.

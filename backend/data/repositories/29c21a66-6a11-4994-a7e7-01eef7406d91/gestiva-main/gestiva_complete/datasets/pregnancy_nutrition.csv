@@ -1,0 +1,179 @@
+Food_ID,Food_Name,Category,Calories_per_100g,Protein_g,Carbohydrates_g,Fat_g,Fiber_g,Iron_mg,Calcium_mg,Folate_mcg,Vitamin_A,Vitamin_C,Vitamin_D,Vitamin_B12,Potassium,Magnesium,Sodium,Serving_Size,Vegetarian,Vegan,Pregnancy_Safe,Suitable_Trimester,Glycemic_Index,Allergens,Health_Benefits
+PN0001,Apple,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0002,Banana,Fruits,90,0.8,24,0.3,2.8,0.3,18,29,90,40,0,0,400,27,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0003,Orange,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0004,Sweet lime,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0005,Guava,Fruits,75,0.8,18,0.3,4.8,0.3,23,44,100,195,0,0,270,20,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0006,Papaya ripe,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0007,Mango,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0008,Pomegranate,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0009,Watermelon,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0010,Muskmelon,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0011,Pear,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0012,Peach,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0013,Plum,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0014,Kiwi,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0015,Strawberries,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0016,Blueberries,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0017,Grapes,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0018,Chikoo,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0019,Custard apple,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0020,Dragon fruit,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0021,Dates,Fruits,155,1.8,40,0.3,5.8,1.3,48,34,80,35,0,0,470,35,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0022,Figs,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0023,Apricot,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0024,Pineapple,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0025,Avocado,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0026,Jamun,Fruits,65,0.8,16,0.3,2.8,0.3,18,24,80,35,0,0,220,15,2,1 medium or 1 cup,Yes,Yes,Yes,All trimesters,45,None,"vitamin C, fiber and hydration"
+PN0027,Spinach cooked,Vegetables,45,2.2,8,0.5,4.8,3.2,125,170,600,33,0,0,400,45,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0028,Fenugreek leaves,Vegetables,45,2.2,8,0.5,4.8,3.2,105,140,470,33,0,0,370,40,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0029,Amaranth leaves,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0030,Drumstick leaves,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0031,Broccoli,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0032,Carrot,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0033,Beetroot,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0034,Sweet potato,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,50,None,"folate, fiber and potassium"
+PN0035,Pumpkin,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0036,Bottle gourd,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0037,Ridge gourd,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0038,Bitter gourd,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0039,Okra,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0040,French beans,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0041,Green peas,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0042,Cabbage,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0043,Cauliflower,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0044,Tomato,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0045,Capsicum,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0046,Cucumber,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0047,Zucchini,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0048,Mushroom cooked,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0049,Brinjal,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0050,Mustard greens,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0051,Asparagus,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0052,Kale cooked,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0053,Radish,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0054,Lotus stem,Vegetables,45,2.2,8,0.5,3.8,1.2,65,70,350,28,0,0,320,30,35,1 cup cooked,Yes,Yes,Yes,All trimesters,35,None,"folate, fiber and potassium"
+PN0055,Moong dal,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0056,Masoor dal,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0057,Toor dal,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0058,Chana dal,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0059,Urad dal,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0060,Rajma,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0061,Chickpeas,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0062,Black chana,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0063,Steamed moong sprouts,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0064,Soybeans,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0065,Lentil soup,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0066,Hummus,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0067,Horse gram,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0068,Moth beans,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0069,Cowpeas,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0070,Edamame,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0071,Split pea soup,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0072,Mixed dal,Pulses,130,8.5,22,1,7,2.5,45,110,25,3,0,0,340,50,8,1/2 cup cooked,Yes,Yes,Yes,All trimesters,27,Legumes,"plant protein, iron and soluble fiber"
+PN0073,Pasteurized cow milk,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0074,Plain curd,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0075,Greek yogurt,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0076,Paneer pasteurized,Dairy,255,15.8,8,18,0,0.1,400,17,90,1,0.1,1.3,170,19,105,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0077,Cheddar pasteurized,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0078,Mozzarella pasteurized,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0079,Buttermilk,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0080,Kefir pasteurized,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0081,Unsweetened lassi,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0082,Skim milk,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0083,Fortified soy milk,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0084,Fortified almond milk,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0085,Cottage cheese,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0086,Ricotta pasteurized,Dairy,95,5.8,7,4,0,0.1,180,12,70,1,0.1,0.8,150,14,45,1 cup or 100 g,Yes,No,Yes,All trimesters,35,Milk,"calcium, protein and vitamin B12"
+PN0087,Brown rice,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0088,Red rice,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0089,Hand-pounded rice,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0090,Whole wheat roti,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0091,Jowar roti,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0092,Bajra roti,Whole Grains,175,7,35,2.2,6.5,4.8,38,45,8,0,0,0,210,115,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,47,Gluten possible,steady energy and fiber
+PN0093,Ragi malt,Whole Grains,170,6,34,2.2,6.5,3.8,258,45,8,0,0,0,190,95,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,47,Gluten possible,steady energy and fiber
+PN0094,Oats,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0095,Quinoa,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0096,Barley,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0097,Dalia,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0098,Millet khichdi,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0099,Buckwheat,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0100,Whole wheat pasta,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0101,Multigrain bread,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,70,Gluten possible,steady energy and fiber
+PN0102,Idli,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,70,Gluten possible,steady energy and fiber
+PN0103,Dosa,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,70,Gluten possible,steady energy and fiber
+PN0104,Poha with peanuts,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,70,Gluten possible,steady energy and fiber
+PN0105,Upma,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0106,Whole wheat paratha,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0107,Foxtail millet,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0108,Little millet,Whole Grains,150,5,30,2.2,4.5,1.8,28,35,8,0,0,0,170,55,6,1/2 cup cooked or 1 roti,Yes,Yes,Yes,All trimesters,55,Gluten possible,steady energy and fiber
+PN0109,Almonds,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0110,Walnuts,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0111,Cashews,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0112,Pistachios,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0113,Roasted peanuts,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0114,Sesame seeds,Nuts & Seeds,600,21,24,53,11,8.5,680,75,5,1,0,0,700,330,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0115,Ground flax seeds,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0116,Soaked chia seeds,Nuts & Seeds,600,21,23,53,17,4.5,330,70,5,1,0,0,700,320,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0117,Pumpkin seeds,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0118,Sunflower seeds,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0119,Watermelon seeds,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0120,Hemp seeds,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0121,Brazil nuts,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0122,Poppy seeds limited,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Use with caution,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0123,Fresh coconut,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0124,Unsweetened peanut butter,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0125,Makhana roasted,Nuts & Seeds,560,19,22,48,9,3.5,180,55,5,1,0,0,620,250,5,20-30 g,Yes,Yes,Yes,All trimesters,27,Tree nuts or seeds,healthy fats and magnesium
+PN0126,Boiled egg,Eggs,155,13,1,11,0,1.8,50,47,160,0,2,1.1,126,12,124,1 large fully cooked egg,Yes,No,Yes,All trimesters,25,Egg,complete protein and choline
+PN0127,Scrambled egg fully cooked,Eggs,155,13,1,11,0,1.8,50,47,160,0,2,1.1,126,12,124,1 large fully cooked egg,Yes,No,Yes,All trimesters,25,Egg,complete protein and choline
+PN0128,Vegetable omelette,Eggs,155,13,1,11,0,1.8,50,47,160,0,2,1.1,126,12,124,1 large fully cooked egg,Yes,No,Yes,All trimesters,25,Egg,complete protein and choline
+PN0129,Egg curry fully cooked,Eggs,155,13,1,11,0,1.8,50,47,160,0,2,1.1,126,12,124,1 large fully cooked egg,Yes,No,Yes,All trimesters,25,Egg,complete protein and choline
+PN0130,Egg white cooked,Eggs,155,13,1,11,0,1.8,50,47,160,0,2,1.1,126,12,124,1 large fully cooked egg,Yes,No,Yes,All trimesters,25,Egg,complete protein and choline
+PN0131,Egg bhurji,Eggs,155,13,1,11,0,1.8,50,47,160,0,2,1.1,126,12,124,1 large fully cooked egg,Yes,No,Yes,All trimesters,25,Egg,complete protein and choline
+PN0132,Baked egg muffin,Eggs,155,13,1,11,0,1.8,50,47,160,0,2,1.1,126,12,124,1 large fully cooked egg,Yes,No,Yes,All trimesters,25,Egg,complete protein and choline
+PN0133,Frittata fully cooked,Eggs,155,13,1,11,0,1.8,50,47,160,0,2,1.1,126,12,124,1 large fully cooked egg,Yes,No,Yes,All trimesters,25,Egg,complete protein and choline
+PN0134,Salmon cooked,Fish,195,24,0,13,0,0.7,27,8,40,0,14,4.5,410,37,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0135,Sardines cooked,Fish,195,24,0,13,0,1.7,282,8,40,0,13,7.5,430,42,95,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0136,Rohu curry,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0137,Hilsa cooked limited,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Use with caution,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0138,Pomfret cooked,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0139,Tilapia cooked,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0140,Trout cooked,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0141,Anchovies cooked,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0142,Indian mackerel cooked,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0143,Prawns cooked,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0144,Cod cooked,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0145,Light tuna limited,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Use with caution,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0146,Catla cooked,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Yes,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0147,Seer fish limited,Fish,170,22,0,9,0,0.7,22,8,40,0,8,2.5,380,32,65,75-100 g cooked,No,No,Use with caution,Second and third trimester,25,Fish,omega-3 and lean protein
+PN0148,Chicken breast cooked,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0149,Lean chicken curry,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0150,Turkey breast cooked,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0151,Lean mutton occasional,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0152,Lean beef occasional,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0153,Pork tenderloin cooked,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0154,Chicken soup,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0155,Turkey meatballs,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0156,Grilled chicken tikka,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0157,Lean lamb stew,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0158,Roast chicken,Lean Meats,185,27,0,8,0,1.5,12,8,15,0,0.2,1.5,320,26,70,75-100 g cooked,No,No,Yes,Second and third trimester,25,Meat,"heme iron, protein and B12"
+PN0159,Chicken liver limited,Lean Meats,225,30,0,10,0,8.5,17,308,5015,0,0.2,11.5,340,31,70,75-100 g cooked,No,No,Use with caution,Occasional only after clinician advice,25,Meat,"heme iron, protein and B12"
+PN0160,Vegetable khichdi,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0161,Palak dal,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0162,Curd rice,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,No,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0163,Sambar,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0164,Vegetable pulao,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0165,Rajma chawal,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0166,Chole with rice,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0167,Ragi dosa,Indian Prepared Foods,190,7.5,30,4.5,6,3.8,290,65,90,8,0,0.1,280,78,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,62,Varies,balanced energy when freshly prepared
+PN0168,Moong dal cheela,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0169,Besan chilla,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0170,Thepla,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0171,Dhokla,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0172,Idiyappam with stew,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0173,Appam with vegetable stew,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0174,Pongal,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0175,Lemon rice with peanuts,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0176,Avial,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0177,Light dal makhani,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
+PN0178,Vegetable biryani mild,Indian Prepared Foods,170,6.5,26,4.5,4,1.8,60,55,90,8,0,0.1,260,38,180,1 bowl or 2 pieces,Yes,Yes,Yes,All trimesters,55,Varies,balanced energy when freshly prepared
